@@ -1,7 +1,7 @@
 # Exercicios
 ## 📈 Status
 
-🚧 Em andamento — acompanhando as aulas e atualizando conforme avanço no curso.
+🚧 Concluído — acompanhando as aulas e atualizando conforme avanço no curso.
 
 # 📚 Curso de Git e GitHub - Curso em Vídeo
 
